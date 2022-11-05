@@ -1,0 +1,11 @@
+.heading{
+    border-width: 2px;
+     border-color:#2F3C7E; 
+     border-style: groove;
+}
+button{
+    color: #2F3C7E;
+    font-size: large;
+    margin-top: 10px;
+    background-color: #FBEAEB;
+}
